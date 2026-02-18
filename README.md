@@ -1,6 +1,6 @@
 # Introduction
 
-An Engineer who is continously exploring the limitation of science and engineering.
+An Engineer who is continously exploring the limitation of science and engineering. I want to know the boundary of human knowledge.
 
 Here are some of the programs I have created. (With the help of AI.)
 
@@ -11,3 +11,4 @@ Here are some of the programs I have created. (With the help of AI.)
 
 
 **Created by Andy Kong**
+
